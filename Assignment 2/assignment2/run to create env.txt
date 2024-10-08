@@ -1,0 +1,2 @@
+conda create -c conda-forge -n bme205-assn2 "python==3.12.4" "numpy==2.1.1"
+conda activate bme205-assn2
