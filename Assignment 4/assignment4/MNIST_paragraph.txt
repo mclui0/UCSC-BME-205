@@ -1,0 +1,1 @@
+The hierarchical clustering revealed several distinct clusters for digits, with similar digits like 1 and 7 grouping together at earlier stages. This aligns with expectations as digits with similar shapes tend to form clusters early on.
